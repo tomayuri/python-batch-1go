@@ -108,6 +108,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.venv
+Pipfile.lock
+tmp
+**/__pycache__
 
 # Spyder project settings
 .spyderproject
